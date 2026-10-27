@@ -9,7 +9,7 @@
 
 ---
 
-## 🔥 All 14 Live Pay-Per-Event Actors on Apify Store (`@lucacelli`)
+## 🔥 All 19 Live Pay-Per-Event Actors on Apify Store (`@lucacelli`)
 
 | # | Cloud Actor on Apify Store | Pay-Per-Event Price | 1-Click Custom GPT Action Schema |
 | :--- | :--- | :--- | :--- |
@@ -27,6 +27,11 @@
 | **12** | **[💳 SaaS Pricing Page, Plan Tiers & Competitor Feature Spy](https://apify.com/lucacelli/saas-pricing-page-tier-feature-extractor)** | **$0.80 / 1,000 pages** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/saas-pricing-page-tier-feature-extractor.json) |
 | **13** | **[🧬 ClinicalTrials.gov & OpenFDA Biotech / Pharma Lead Enricher](https://apify.com/lucacelli/clinical-trials-fda-drug-safety-intel)** | **$0.80 / 1,000 trials** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/clinical-trials-fda-drug-safety-intel.json) |
 | **14** | **[🔬 Scientific Paper, Author Email & Lab Research Lead Miner](https://apify.com/lucacelli/scientific-literature-citation-author-lead-miner)** | **$0.50 / 1,000 papers** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/scientific-literature-citation-author-lead-miner.json) |
+| **15** | **[🛡️ Domain Cybersecurity, SPF/DMARC, DNS & Security Auditor](https://apify.com/lucacelli/domain-cybersecurity-ssl-dns-vulnerability-auditor)** | **$0.50 / 1,000 domains** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/domain-cybersecurity-ssl-dns-vulnerability-auditor.json) |
+| **16** | **[📱 Apple App Store ASO, Competitor Metadata & Review Miner](https://apify.com/lucacelli/apple-appstore-aso-competitor-review-intel)** | **$0.50 / 1,000 apps** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/apple-appstore-aso-competitor-review-intel.json) |
+| **17** | **[📦 NPM & PyPI Package Maintainer Email & Supply-Chain Spy](https://apify.com/lucacelli/open-source-package-maintainer-security-intel)** | **$0.50 / 1,000 packages** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/open-source-package-maintainer-security-intel.json) |
+| **18** | **[🏨 Local Business, Hotel, Clinic & Schema Contact Extractor](https://apify.com/lucacelli/local-business-hotel-restaurant-schema-extractor)** | **$0.50 / 1,000 sites** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/local-business-hotel-restaurant-schema-extractor.json) |
+| **19** | **[📊 DeFi Protocol TVL, Capital Flow & Yield Pool Intelligence](https://apify.com/lucacelli/defi-protocol-yield-tvl-whale-intel)** | **$0.50 / 1,000 records** | [Import Schema](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/openapi-actions/defi-protocol-yield-tvl-whale-intel.json) |
 
 ---
 
