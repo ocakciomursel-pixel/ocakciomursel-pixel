@@ -1,26 +1,36 @@
-# ⚡ Lucacelli Cloud Data Engineering (@lucacelli)
+# ⚡ Lucacelli B2B Cloud Scrapers, Clay.com & MCP Ecosystem (`@lucacelli`)
 
-[![Apify Store Publisher](https://img.shields.io/badge/Apify_Store_Publisher-@lucacelli-16a34a?style=for-the-badge&logo=apify)](https://apify.com/lucacelli)
-[![Interactive API Playground](https://img.shields.io/badge/Interactive_API_Playground-Launch_Now-0284c7?style=for-the-badge)](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/)
+[![Apify Store Publisher](https://img.shields.io/badge/Apify_Store-@lucacelli_(90%2B_Actors)-16a34a?style=for-the-badge&logo=apify)](https://apify.com/lucacelli)
+[![34-Tool MCP Server](https://img.shields.io/badge/Claude_%26_Cursor_MCP-34_B2B_Tools_(v2.1)-6366f1?style=for-the-badge)](https://github.com/ocakciomursel-pixel/lucacelli-b2b-mcp-server)
+[![Interactive Playground](https://img.shields.io/badge/Live_Cloud_Playground-Launch_Now-0284c7?style=for-the-badge)](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/)
 
-High-concurrency, **Pay-Per-Result Cloud Scrapers & B2B Enrichment APIs** on **[Apify Store](https://apify.com/lucacelli)** starting at **$0.50 per 1,000 results** — built for **n8n**, **Make.com**, **LangChain**, **Claude MCP**, Python, and Node.js pipelines.
+Cookie-free, **Pay-Per-Result B2B Lead Generation, Buyer-Intent & Enrichment APIs** on **[Apify Store](https://apify.com/lucacelli)** (`$0.50–$1.50 / 1,000` records, **100% covered by Apify's `$5.00/mo` free plan credit**) — native for **Clay.com HTTP API**, **n8n**, **Make**, **Claude Desktop / Cursor MCP**, Python, and Node.js.
 
-## 🔥 Featured Live Apify Cloud Actors
-
-| Cloud Actor | Price | Try on Apify Store |
-| :--- | :--- | :--- |
-| **[Google Maps Scraper: Places, Emails, Contacts & Reviews Pro](https://apify.com/lucacelli/google-maps-scraper-places-emails-contacts-reviews)** | **$1.50 / 1,000 places** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/google-maps-scraper-places-emails-contacts-reviews) |
-| **[B2B Domain Contact, Email, DNS & Tech Stack Enricher](https://apify.com/lucacelli/b2b-domain-contact-tech-enricher)** | **$0.80 / 1,000 domains** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/b2b-domain-contact-tech-enricher) |
-| **[Shopify Store Product, Pricing, Stock & Merchant Contact Spy](https://apify.com/lucacelli/shopify-store-product-contact-spy)** | **$0.50 / 1,000 products** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/shopify-store-product-contact-spy) |
-| **[Website to Clean Markdown, Vector RAG Chunks & llms.txt](https://apify.com/lucacelli/ai-ready-website-to-markdown-rag-crawler)** | **$0.50 / 1,000 pages** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/ai-ready-website-to-markdown-rag-crawler) |
-| **[Technical SEO, Broken Link, Schema.org & Security Auditor](https://apify.com/lucacelli/seo-technical-audit-broken-link-schema-analyzer)** | **$0.80 / 1,000 pages** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/seo-technical-audit-broken-link-schema-analyzer) |
-| **[GitHub Developer, Stargazer & Contributor Lead Enricher](https://apify.com/lucacelli/github-developer-recruiter-lead-enricher)** | **$0.80 / 1,000 developers** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/github-developer-recruiter-lead-enricher) |
-| **[Greenhouse & Lever Company Job Board & Hiring Signal Scraper](https://apify.com/lucacelli/ats-job-board-hiring-signal-scraper)** | **$0.50 / 1,000 jobs** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/ats-job-board-hiring-signal-scraper) |
-| **[Reddit Subreddit, Buyer Intent & Pain-Point Lead Miner](https://apify.com/lucacelli/reddit-community-pain-point-trend-miner)** | **$0.50 / 1,000 posts** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/reddit-community-pain-point-trend-miner) |
-| **[WordPress & WooCommerce Theme, Plugin & Agency Lead Spy](https://apify.com/lucacelli/wordpress-woocommerce-site-spy)** | **$0.80 / 1,000 sites** | [🚀 Run on Apify Cloud →](https://apify.com/lucacelli/wordpress-woocommerce-site-spy) |
+- 🔌 **Zero-Install 34-Tool MCP Server (`v2.1.0`):** `npx -y github:ocakciomursel-pixel/lucacelli-b2b-mcp-server` ([Repo & Docs](https://github.com/ocakciomursel-pixel/lucacelli-b2b-mcp-server))
+- ⚡ **Clay.com 25-Column HTTP API Waterfall Pack (`$9`):** [Instant Download via Polar](https://buy.polar.sh/polar_cl_lDIkQ1BPDRI7qCNwAxGz8U0HlRs2higwma1EL1EYP5C)
+- 💎 **Full B2B Outbound Agency Vault — Clay + 7x Chained n8n + Python SDK (`$19`):** [Unlock Full Pro Vault](https://buy.polar.sh/polar_cl_j0IOeyioFqMjcNZRqTo0Cqk6HGslU1yArpHUV47NP1j)
 
 ---
 
-### 🌐 Interactive API Playground & SDK Code Generator
-Test live inputs and generate ready-to-copy **cURL, Python, Node.js, and n8n** snippets in your browser:
-👉 **[https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/](https://ocakciomursel-pixel.github.io/b2b-domain-contact-tech-enricher/)**
+## 🔥 High-Intent B2B & Agency Goldmine Scrapers on Apify Store
+
+| Cloud Actor | All-Inclusive Price | Run Free on Apify |
+| :--- | :--- | :--- |
+| **[Apollo Alternative — B2B Lead, Email & Executive Finder](https://apify.com/lucacelli/apollo-b2b-leads-email-finder)** | **$0.80 / 1,000 leads** | [🚀 Launch Actor →](https://apify.com/lucacelli/apollo-b2b-leads-email-finder) |
+| **[Google Maps Email, Phone & Business Leads Scraper](https://apify.com/lucacelli/google-maps-scraper-places-emails-contacts-reviews)** | **$1.50 / 1,000 places** | [🚀 Launch Actor →](https://apify.com/lucacelli/google-maps-scraper-places-emails-contacts-reviews) |
+| **[Company Email Finder, Phone & Tech Stack Enricher](https://apify.com/lucacelli/b2b-domain-contact-tech-enricher)** | **$0.80 / 1,000 domains** | [🚀 Launch Actor →](https://apify.com/lucacelli/b2b-domain-contact-tech-enricher) |
+| **[Google Ads Transparency & Competitor Ad Pixel Spy](https://apify.com/lucacelli/google-ads-transparency-ad-spy-scraper)** | **$0.75 / 1,000 domains** | [🚀 Launch Actor →](https://apify.com/lucacelli/google-ads-transparency-ad-spy-scraper) |
+| **[G2 & Capterra Software Reviews, Ratings & Buyer Intent](https://apify.com/lucacelli/g2-capterra-software-reviews-scraper)** | **$0.80 / 1,000 records** | [🚀 Launch Actor →](https://apify.com/lucacelli/g2-capterra-software-reviews-scraper) |
+| **[Skool Community, Creator Emails & Monthly MRR Scraper](https://apify.com/lucacelli/skool-community-creator-leads-scraper)** | **$0.80 / 1,000 groups** | [🚀 Launch Actor →](https://apify.com/lucacelli/skool-community-creator-leads-scraper) |
+| **[Wellfound & YC Startup Jobs, Founders & Hiring Leads](https://apify.com/lucacelli/wellfound-startup-jobs-founders-scraper)** | **$0.75 / 1,000 startups** | [🚀 Launch Actor →](https://apify.com/lucacelli/wellfound-startup-jobs-founders-scraper) |
+| **[Clutch.co B2B Agency Leads, Ratings & Verified Emails](https://apify.com/lucacelli/clutch-b2b-agency-leads-scraper)** | **$0.80 / 1,000 agencies** | [🚀 Launch Actor →](https://apify.com/lucacelli/clutch-b2b-agency-leads-scraper) |
+| **[PitchBook & Crunchbase Alternative — SEC Funded Startups](https://apify.com/lucacelli/pitchbook-crunchbase-funded-startups-scraper)** | **$0.80 / 1,000 startups** | [🚀 Launch Actor →](https://apify.com/lucacelli/pitchbook-crunchbase-funded-startups-scraper) |
+| **[CarGurus & Auto Dealership Leads, Inventory & Contacts](https://apify.com/lucacelli/cargurus-auto-dealer-leads-scraper)** | **$0.75 / 1,000 dealers** | [🚀 Launch Actor →](https://apify.com/lucacelli/cargurus-auto-dealer-leads-scraper) |
+| **[Whatnot & Live Reseller Shop Leads, Ratings & Socials](https://apify.com/lucacelli/whatnot-ebay-live-seller-leads-scraper)** | **$0.75 / 1,000 sellers** | [🚀 Launch Actor →](https://apify.com/lucacelli/whatnot-ebay-live-seller-leads-scraper) |
+| **[Shopify Store Leads, Emails & Product Catalog Scraper](https://apify.com/lucacelli/shopify-store-product-contact-spy)** | **$0.50 / 1,000 records** | [🚀 Launch Actor →](https://apify.com/lucacelli/shopify-store-product-contact-spy) |
+
+---
+
+### 🌐 Interactive Cloud Playground, CSV Exporter & Custom GPT Schema
+- **Browser Playground:** [https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/)
+- **OpenAPI 3.1.0 (34 Endpoints):** [https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/openapi.json](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/openapi.json)
