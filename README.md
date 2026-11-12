@@ -7,8 +7,8 @@
 Cookie-free, **Pay-Per-Result B2B Lead Generation, Buyer-Intent & Enrichment APIs** on **[Apify Store](https://apify.com/lucacelli)** (`$0.50–$1.50 / 1,000` records, **100% covered by Apify's `$5.00/mo` free plan credit**) — native for **Clay.com HTTP API**, **n8n**, **Make**, **Claude Desktop / Cursor MCP**, Python, and Node.js.
 
 - 🔌 **Zero-Install 34-Tool MCP Server (`v2.1.0`):** `npx -y github:ocakciomursel-pixel/lucacelli-b2b-mcp-server` ([Repo & Docs](https://github.com/ocakciomursel-pixel/lucacelli-b2b-mcp-server))
-- ⚡ **Clay.com 25-Column HTTP API Waterfall Pack (`$9`):** [Instant Download via Polar](https://buy.polar.sh/polar_cl_lDIkQ1BPDRI7qCNwAxGz8U0HlRs2higwma1EL1EYP5C)
-- 💎 **Full B2B Outbound Agency Vault — Clay + 7x Chained n8n + Python SDK (`$19`):** [Unlock Full Pro Vault](https://buy.polar.sh/polar_cl_j0IOeyioFqMjcNZRqTo0Cqk6HGslU1yArpHUV47NP1j)
+- ⚡ **Clay.com 25-Column HTTP API Waterfall Pack (`$9`):** [Instant Download via Polar](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)
+- 💎 **Full B2B Outbound Agency Vault — Clay + 7x Chained n8n + Python SDK (`$19`):** [Unlock Full Pro Vault](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)
 
 ---
 
